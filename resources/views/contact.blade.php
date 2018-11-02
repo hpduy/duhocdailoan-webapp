@@ -4,6 +4,8 @@
 <link rel="stylesheet" type="text/css" href="{{asset('styles/contact_responsive.css')}}">
 @stop
 @section('content') 
+<div class="home">
+</div>
 <!-- Contact -->
 <div class="contact">
 
@@ -14,11 +16,11 @@
         <!-- Google Map -->
 
         <div class="map">
-            <div id="google_map" class="google_map">
-                <div class="map_container">
-                    <div id="map"></div>
-                </div>
-            </div>
+            <!--            <div id="google_map" class="google_map">
+                            <div class="map_container">
+                                <div id="map"></div>
+                            </div>
+                        </div>-->
         </div>
 
     </div>
@@ -79,8 +81,8 @@
 
 @section('footer_script') 
 <script src="{{asset('plugins/parallax-js-master/parallax.min.js')}}"></script>
-<script async defer
+<!--<script async defer
   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBrhsfnev_H1mGvAZUBiLxt3Uc574FSjDw&callback=initMap">
-</script>
+</script>-->
 <script src="{{asset('js/contact.js')}}"></script>
 @stop

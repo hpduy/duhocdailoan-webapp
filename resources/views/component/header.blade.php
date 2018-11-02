@@ -37,12 +37,12 @@
                         </div>
                         <nav class = "main_nav_contaner ml-auto">
                             <ul class = "main_nav">
-                                <li class = "active"><a href = "#">Trang chủ</a></li>
-                                <li><a href = "/about">Giới thiệu</a></li>
-                                <li><a href = "/school">Danh sách trường</a></li>
-                                <li><a href = "/news">Tin tức</a></li>
-                                <li><a href = "/event">Sự kiện</a></li>
-                                <li><a href = "/contact">Liên hệ</a></li>
+                                <li class = "{{ (\Request::route()->getName() == 'home') ? 'active' : '' }}"><a href = "{{route("home")}}">Trang chủ</a></li>
+                                <li class = "{{ (\Request::route()->getName() == 'about') ? 'active' : '' }}"><a href = "{{route("about")}}">Giới thiệu</a></li>
+                                <li class = "{{ (\Request::route()->getName() == 'school') ? 'active' : '' }}"><a href = "{{route("school")}}">Danh sách trường</a></li>
+                                <li class = "{{ (\Request::route()->getName() == 'news') ? 'active' : '' }}"><a href = "{{route("news")}}">Tin tức</a></li>
+                                <li class = "{{ (\Request::route()->getName() == 'event') ? 'active' : '' }}"><a href = "{{route("event")}}">Sự kiện</a></li>
+                                <li class = "{{ (\Request::route()->getName() == 'contact') ? 'active' : '' }}"><a href = "{{route("contact")}}">Liên hệ</a></li>
                             </ul>
                             <div class = "search_button"><i class = "fa fa-search" aria-hidden = "true"></i></div>
 

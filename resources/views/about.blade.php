@@ -26,7 +26,7 @@
                     <div class="about_item_image"><img src="images/about_1.jpg" alt=""></div>
                     <div class="about_item_title"><a href="#">Sơ lược</a></div>
                     <div class="about_item_text">
-                        <p>Lorem ipsum dolor sit , consectet adipisi elit, sed do eiusmod tempor for enim en consectet adipisi elit, sed do consectet adipisi elit, sed doadesg.</p>
+                        <p>Du học ĐLĐH một trong những đơn vị tiên phong có chương trình du học Đài Loan thu hút sự quan tâm và nhận được sự tin tưởng của nhiều phụ huynh – học sinh</p>
                     </div>
                 </div>
             </div>
@@ -37,7 +37,7 @@
                     <div class="about_item_image"><img src="images/about_2.jpg" alt=""></div>
                     <div class="about_item_title"><a href="#">Nhiệm vụ</a></div>
                     <div class="about_item_text">
-                        <p>Lorem ipsum dolor sit , consectet adipisi elit, sed do eiusmod tempor for enim en consectet adipisi elit, sed do consectet adipisi elit, sed doadesg.</p>
+                        <p> Chúng tôi tư vấn hướng dẫn các thủ tục xin visa du học Đài Loan như du học tiếng, đại học, thạc sĩ và tiến sĩ, đặc biệt là tư vấn học bổng du học Đài Loan</p>
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@
                     <div class="about_item_image"><img src="images/about_3.jpg" alt=""></div>
                     <div class="about_item_title"><a href="#">Tầm nhìn</a></div>
                     <div class="about_item_text">
-                        <p>Lorem ipsum dolor sit , consectet adipisi elit, sed do eiusmod tempor for enim en consectet adipisi elit, sed do consectet adipisi elit, sed doadesg.</p>
+                        <p>Năm 2015 có 110.000 sinh viên quốc tế du học Đài Loan, chiếm 8.27% tổng số sinh viên. Chính phủ Đài Loan đặt kế hoạch thu hút 150.000 sinh viên quốc tế vào năm 2021 tới.</p>
                     </div>
                 </div>
             </div>
@@ -137,22 +137,34 @@
                     <div class="owl-carousel owl-theme partners_slider">
 
                         <!-- Partner Item -->
-                        <div class="owl-item partner_item"><img src="images/partner_1.png" alt=""></div>
+                        <div class="owl-item partner_item"><img src="images/logos/1.jpg" alt=""></div>
 
                         <!-- Partner Item -->
-                        <div class="owl-item partner_item"><img src="images/partner_2.png" alt=""></div>
+                        <div class="owl-item partner_item"><img src="images/logos/2.jpg" alt=""></div>
 
                         <!-- Partner Item -->
-                        <div class="owl-item partner_item"><img src="images/partner_3.png" alt=""></div>
+                        <div class="owl-item partner_item"><img src="images/logos/3.png" alt=""></div>
 
                         <!-- Partner Item -->
-                        <div class="owl-item partner_item"><img src="images/partner_4.png" alt=""></div>
+                        <div class="owl-item partner_item"><img src="images/logos/4.gif" alt=""></div>
 
                         <!-- Partner Item -->
-                        <div class="owl-item partner_item"><img src="images/partner_5.png" alt=""></div>
+                        <div class="owl-item partner_item"><img src="images/logos/5.png" alt=""></div>
 
                         <!-- Partner Item -->
-                        <div class="owl-item partner_item"><img src="images/partner_6.png" alt=""></div>
+                        <div class="owl-item partner_item"><img src="images/logos/6.png" alt=""></div>
+                        
+                        <!-- Partner Item -->
+                        <div class="owl-item partner_item"><img src="images/logos/7.png" alt=""></div>
+                        
+                        <!-- Partner Item -->
+                        <div class="owl-item partner_item"><img src="images/logos/8.png" alt=""></div>
+                        
+                        <!-- Partner Item -->
+                        <div class="owl-item partner_item"><img src="images/logos/9.jpg" alt=""></div>
+                        
+                        <!-- Partner Item -->
+                        <div class="owl-item partner_item"><img src="images/logos/10.jpg" alt=""></div>
 
                     </div>
                 </div>

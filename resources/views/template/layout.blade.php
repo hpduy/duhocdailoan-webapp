@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Du học Đài Loan đa hệ</title>
+<title>Du Học Đài Loan Đa Hệ</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="Tư vấn du học Đài Loan">

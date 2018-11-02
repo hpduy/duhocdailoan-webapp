@@ -6,38 +6,42 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="counter_content">
-                    <h2 class="counter_title">Sô lượng du học sinh</h2>
-                    <div class="counter_text"><p>Từ năm 2010 đên nay đã có rất nhiều học sinh du học Đài Loan và gặt hái nhiều thành công. Sau đây là số lượng du học sinh mà chúng tôi đã thống kê</p></div>
+                    <h2 class="counter_title">Tư vấn và định hướng du học</h2>
+                    <div class="counter_text">
+                        <p>
+                            Chất lượng đào tạo tốt, chi phí thấp, cơ hội làm thêm với mức thu nhập khá, văn hóa tương đồng, thành thạo hai ngôn ngữ tiếng Trung – tiếng Anh, điều kiện học bổng không khó, dễ tìm việc làm sau khi tốt nghiệp. Đó là những lý do mà sinh viên Việt Nam chọn đến Đài Loan học tập.  
+                            Du học Đài Loan Đa Hệ là một trong những đơn vị tiên phong có chương trình du học Đài Loan thu hút sự quan tâm và nhận được sự tin tưởng của nhiều phụ huynh – học sinh, chúng tôi tư vấn hướng dẫn các thủ tục xin visa du học Đài Loan như du học tiếng, đại học, thạc sĩ và tiến sĩ, đặc biệt là tư vấn học bổng du học Đài Loan.
+                        </p></div>
 
-                    <!-- Milestones -->
+<!--                     Milestones 
 
                     <div class="milestones d-flex flex-md-row flex-column align-items-center justify-content-between">
 
-                        <!-- Milestone -->
+                         Milestone 
                         <div class="milestone">
-                            <div class="milestone_counter" data-end-value="230">0</div>
-                            <div class="milestone_text">Tốt nghiệp</div>
+                            <div class="milestone_counter" data-end-value="8">0</div>
+                            <div class="milestone_text">Năm hoạt động</div>
                         </div>
 
-                        <!-- Milestone -->
+                         Milestone 
                         <div class="milestone">
-                            <div class="milestone_counter" data-end-value="120" data-sign-after="k">0</div>
-                            <div class="milestone_text">Tư vấn</div>
+                            <div class="milestone_counter" data-end-value="3000">0</div>
+                            <div class="milestone_text">Lượng tư vấn</div>
                         </div>
 
-                        <!-- Milestone -->
+                         Milestone 
                         <div class="milestone">
-                            <div class="milestone_counter" data-end-value="300" data-sign-after="+">0</div>
-                            <div class="milestone_text">Du học</div>
+                            <div class="milestone_counter" data-end-value="350" data-sign-after="+">0</div>
+                            <div class="milestone_text">Du học sinh</div>
                         </div>
 
-                        <!-- Milestone -->
+                         Milestone 
                         <div class="milestone">
-                            <div class="milestone_counter" data-end-value="420">0</div>
-                            <div class="milestone_text">Làm việc sau tốt nghiệp</div>
+                            <div class="milestone_counter" data-end-value="1702">0</div>
+                            <div class="milestone_text">Tốt nghiệp & làm việc</div>
                         </div>
 
-                    </div>
+                    </div>-->
                 </div>
 
             </div>
